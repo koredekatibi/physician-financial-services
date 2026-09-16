@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/32309181/README.md)
 # Physician Financial Services Analytics Portfolio
 
 **Korede Katibi, MBA** — built for interview prep: **Kaiser Permanente, Physician Financial Services Consultant III (Req #1436508)**
